@@ -1,7 +1,11 @@
-# Repositório do projeto de desafio da Dio sobre Git/Git hub (Em JS)
-Criei um jogo em JS para esse desafio de projeto sobre o Git/github
+# Repositório do projeto de desafio da Dio sobre Git/Github
 
-## link para o jogo /v/
+Meus estudos de JS e lógica de Programação estarão sendo compartilhados aqui.
+
+
+## link para o meu primeiro jogo em JS /v/
+
+juntamente aos meus estudos, eu desenvolvi um jogo em JS para avançar nos meus conhecimentos.
 
 [Jogo finalizado](https://editor.p5js.org/Yohxz/full/toZtal6uk)
 
